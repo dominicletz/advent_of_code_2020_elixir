@@ -1,4 +1,4 @@
-#!/usr/bin/env elixir
+#! /usr/bin/env elixir
 yes = MapSet.new('abcdefghijklmnopqrstuvwxyz')
 
 File.read!("6.csv")
